@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyYinXiang</string>
+    <string name="open">开</string>
+    <string name="close">关</string>
+    <string name="user_token">token</string>
+    <string name="requestUrl">http://192.168.1.126:8088/innermanager/ajax/AppLogin</string>
+    <string name="menu_about">关于</string>
+    <string name="large_text">https://github.com/weihongbin</string>
+    <string name="share">独乐乐不如众乐乐，https://github.com/weihongbin</string>
+    <string name="shareSub">动动手</string>
+</resources>
